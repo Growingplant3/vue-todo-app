@@ -20,6 +20,7 @@ const app = new Vue({
   el: '#app',
   data: {
     // 使用するデータ
+    todos: []
   },
   methods: {
     // 使用するメソッド
